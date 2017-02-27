@@ -2,4 +2,4 @@
 First repository
 
 Noob prgrammer here! 
-Please dont mind me.
+Please, dont mind me.
